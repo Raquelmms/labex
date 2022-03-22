@@ -2,6 +2,12 @@
 O objetivo desse projeto é a realização de uma página de web de uma companhia de viagens espaciais, onde é possível ver as viagens disponíveis e se candidatar para essas  viagens espaciais na área livre do site.
 Na área do restrita do site onde só é possível fazer login na conta e ter acesso a todas as viagens, podendo deletar e aprovar ou rejeitas candidatos para as viagens.
 
+### Acesso área admin
+
+Email: [astrodev@gmail.com.br](mailto:astrodev@gmail.com.br)
+
+Senha: 123456
+
 Tela inicial: Na tela inicial tem um breve texto explicando sobre o que é o site com ilustrações, acima possui dois buttons, "Ver viagens" e "Área de Admin".
 
 Ver viagens: Nessa tela é possível ver todas as viagens com as informações e tem dois buttons, um que leva para tela inicial e outro que leva para a página do formulário de inscrição.
